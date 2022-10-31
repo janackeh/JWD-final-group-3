@@ -1,0 +1,3 @@
+[submodule "path_to_submodule"]
+path = path_to_submodule
+url = https://github.com/janackeh/JWD-final-group-3.git
